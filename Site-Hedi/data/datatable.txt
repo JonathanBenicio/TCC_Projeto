@@ -1,0 +1,12 @@
+{
+    "data":
+    [{
+        "id": 2,
+        "glicemia_Obtida":19.0,
+        "glicemia_Alvo":250.0,
+        "carboidratos_Total":10.0,
+        "insulina_Calculada":17.0,
+        "data_Hora":"2020-12-20T14:56:06"
+        }
+        ]
+        }
